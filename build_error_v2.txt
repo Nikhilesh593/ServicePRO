@@ -1,0 +1,10 @@
+
+> quack-spoon-1626@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@firebase/auth' in 'D:\UrbanCompany_Clone\src\Components\Login'
+
+

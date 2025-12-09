@@ -1,0 +1,10 @@
+
+> quack-spoon-1626@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Failed to compile.
+
+Attempted import error: 'Divider' is not exported from '@chakra-ui/react' (imported as 'Divider').
+
+
